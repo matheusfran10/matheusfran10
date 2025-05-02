@@ -57,17 +57,6 @@ Estou em constante evolução, sempre estudando através de cursos, vídeos, pr�
 <br/>
 <br/>
 <br/>
-
----
-
-### 📫 Contato
-
-- 📧 **Email:** mateusfrancisco1324@gmail.com  
-- 💼 **LinkedIn:** (https://www.linkedin.com/in/matheus-francisco-souza-duarte-b95a5b21b/))
-- 💻 **GitHub:** (https://github.com/matheusfran10)
-
----
-
 > 
 <br/>
 <br/>
