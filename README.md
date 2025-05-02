@@ -57,7 +57,5 @@ Estou em constante evolução, sempre estudando através de cursos, vídeos, pr�
 <br/>
 <br/>
 <br/>
-> 
-<br/>
-<br/>
-<p>"A prática leva à perfeição. O estudo abre caminhos, mas é a dedicação que transforma." 💻🚀</p>    
+
+   
